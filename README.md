@@ -1,16 +1,22 @@
-# dev_card
+# DevCard (dev_card)
 
-A new Flutter project.
+Projeto em Flutter para apresentação pessoal/profissional
 
-## Getting Started
+## O projeto
 
-This project is a starting point for a Flutter application.
+Consiste no resumo (curriculum vitae) em forma de aplicativo, com a finalidade de por a prova as informações sobre o desenvolvedor.
 
-A few resources to get you started if this is your first Flutter project:
+Possui um navegação entre telas lateral com tópicos: 
+-Pessoal
+-Experiencia
+-Apps
+-Contato
+-Compartilhar
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Diferencial da aplicação
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Baixar e conhecer sobre todos os apps desenvolvidos e publicados (apenas Android).
+
+Acesso às redes sociais/proficionais para contato.
+
+Compartilhar o próprio app para outras pessoas, espalhando assim este "cartão de visita" - devCard. 
